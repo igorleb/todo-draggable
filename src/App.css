@@ -7,3 +7,13 @@
   background: #222222;
 }
 
+input {
+  height: 30px;
+  width: 350px;
+  border: none;
+  border-bottom: 1px solid whitesmoke;
+  background: none;
+  color: white;
+  padding: 0 10px;
+  outline: none;
+}
