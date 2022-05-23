@@ -43,5 +43,18 @@ input {
   color: black;
   padding: 1em;
   border-radius: 5px;
-
 }
+
+.delete {
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  background: none;
+  border: none;
+}
+
+.delete:hover {
+   color: red;
+   cursor: pointer;
+   transition: .4s;
+ }
