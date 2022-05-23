@@ -17,3 +17,21 @@ input {
   padding: 0 10px;
   outline: none;
 }
+
+.enter {
+  width: 100px;
+  height: 30px;
+  font-size: 12px;
+  background: none;
+  border: 1px solid whitesmoke;
+  border-radius: 3px;
+  color: whitesmoke;
+  margin-left: 10px;
+}
+
+.enter:hover {
+  background: whitesmoke;
+  color: #222222;
+  cursor: pointer;
+
+}
