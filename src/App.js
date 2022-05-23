@@ -49,7 +49,7 @@ function App() {
               key={index}
               defaultPosition={item.defaultPos}
               >
-                <div className='todo_item'>
+                <div className='todo_item' style={{backgroundColor: item.color}}>
                   {`${item.item}`}
                   <button className='delete'>X</button>
                 </div>

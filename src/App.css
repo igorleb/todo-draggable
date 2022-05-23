@@ -33,5 +33,15 @@ input {
   background: whitesmoke;
   color: #222222;
   cursor: pointer;
+}
+
+.todo_item {
+  position: absolute;
+  cursor: move;
+  min-width:220px;
+  min-height: 100px;
+  color: black;
+  padding: 1em;
+  border-radius: 5px;
 
 }
