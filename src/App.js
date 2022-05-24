@@ -43,6 +43,7 @@ function App() {
     <div className='App'>
       <div className='wrapper'>
         <input
+          value={item}
           type='text'
           placeholder='Enter something...'
           onChange={e => setItem(e.target.value)}
