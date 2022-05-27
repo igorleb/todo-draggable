@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-draggable/static/css/main.b2090efa.css",
+    "main.js": "/todo-draggable/static/js/main.70381012.js",
+    "static/js/787.c1661ef0.chunk.js": "/todo-draggable/static/js/787.c1661ef0.chunk.js",
+    "index.html": "/todo-draggable/index.html",
+    "main.b2090efa.css.map": "/todo-draggable/static/css/main.b2090efa.css.map",
+    "main.70381012.js.map": "/todo-draggable/static/js/main.70381012.js.map",
+    "787.c1661ef0.chunk.js.map": "/todo-draggable/static/js/787.c1661ef0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2090efa.css",
+    "static/js/main.70381012.js"
+  ]
+}
